@@ -1,0 +1,1644 @@
+{
+  "metadata": {
+    "name": "满汉全席",
+    "total_dishes": 108,
+    "manchu_dishes": 44,
+    "han_dishes": 64,
+    "description": "满汉全席是清朝时期宫廷盛宴，集合满族和汉族烹饪精华，共108道菜品",
+    "created_date": "2026-03-19"
+  },
+  "dishes": [
+    {
+      "name": "挂炉烤鸭",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "挂炉烤猪",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "哈尔巴",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "小猪子",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "白片鸡",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "爆炒鸡丝",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "炸八块",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "酱鸡腿",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "烧鹿尾",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "扒熊掌",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "蒸驼峰",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "烤乳猪",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "山珍海味",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "燕窝",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "鱼翅",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "鲍鱼",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "海参",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "干贝",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "鱼肚",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "鹿筋",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "熊掌",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "驼峰",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "猴头菇",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "竹荪",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "银耳",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "雪蛤",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "清汤燕菜",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "红烧鱼翅",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "扒鲍鱼",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "葱烧海参",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "干贝扒菜心",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "鹿筋炖鸡",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "熊掌炖豆腐",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "驼峰炒三丝",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "猴头菇炖鸽蛋",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "竹荪鸡汤",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "银耳莲子羹",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "雪蛤炖木瓜",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "八宝鸭",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "叫化鸡",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "贵妃鸡",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "龙凤腿",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "四喜丸子",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "红烧肉",
+      "category": "满席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "东坡肉",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "梅菜扣肉",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "糖醋里脊",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "宫保鸡丁",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "麻婆豆腐",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "回锅肉",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "水煮鱼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "酸菜鱼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "剁椒鱼头",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "清蒸鲈鱼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "西湖醋鱼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "松鼠桂鱼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "糖醋鲤鱼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "九转大肠",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "葱烧海参",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "扒肘子",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "佛跳墙",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "荔枝肉",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "醉排骨",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "南煎肝",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "太极明虾",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "鸡汤汆海蚌",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "臭鳜鱼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "胡适一品锅",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "黄山炖鸽",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "问政山笋",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "符离集烧鸡",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "沙地马蹄鳖",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "北京烤鸭",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "涮羊肉",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "炸酱面",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "京酱肉丝",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "红烧肉",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "腌笃鲜",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "油爆虾",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "八宝辣酱",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "锅包肉",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "地三鲜",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "小鸡炖蘑菇",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "猪肉炖粉条",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "羊肉泡馍",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "大盘鸡",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "手抓羊肉",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "兰州拉面",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "烤羊肉串",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "牛肉拉面",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "手抓饭",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "孜然羊肉",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "罗汉斋",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "素烧鹅",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "素鸡",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "素鱼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "八宝饭",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "糯米藕",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "桂花糕",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "绿豆糕",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "老婆饼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    },
+    {
+      "name": "老公饼",
+      "category": "汉席",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "待补充"
+      ],
+      "steps": [
+        "待补充详细步骤"
+      ],
+      "tips": "满汉全席经典菜品",
+      "historical_note": "清代宫廷御膳"
+    }
+  ]
+}

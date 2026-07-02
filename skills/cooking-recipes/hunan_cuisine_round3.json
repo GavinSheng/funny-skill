@@ -1,0 +1,833 @@
+{
+  "cuisine": "湘菜",
+  "total_dishes": 60,
+  "description": "湘菜以酸辣鲜香、油重色浓为特点，注重原料的本味和调味的层次感",
+  "dishes": [
+    {
+      "name": "剁椒鱼头",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "辣椒炒肉",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "毛氏红烧肉",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 60,
+      "servings": 4,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "腊味合蒸",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 30,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "永州血鸭",
+      "difficulty": "高级",
+      "prep_time": 30,
+      "cook_time": 25,
+      "servings": 4,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "湘西外婆菜",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酱板鸭",
+      "difficulty": "高级",
+      "prep_time": 120,
+      "cook_time": 90,
+      "servings": 4,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "口味蛇",
+      "difficulty": "高级",
+      "prep_time": 30,
+      "cook_time": 40,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "小炒黄牛肉",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅花菜",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸豆角炒肉末",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "擂辣椒皮蛋",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 5,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "臭豆腐",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "糖油粑粑",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 4,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "口味虾",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 15,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "梅菜扣肉",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 90,
+      "servings": 4,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "农家小炒肉",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅牛蛙",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 15,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣鸡杂",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣鱿鱼须",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅土豆片",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "手撕包菜",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 8,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣土豆丝",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 5,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "青椒炒蛋",
+      "difficulty": "初级",
+      "prep_time": 5,
+      "cook_time": 5,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "红烧猪脚",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "粉蒸排骨",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 40,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅茶树菇",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣蟹",
+      "difficulty": "高级",
+      "prep_time": 20,
+      "cook_time": 20,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅肥肠",
+      "difficulty": "中级",
+      "prep_time": 30,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "小炒鸡胗",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣藕带",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 8,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干煸四季豆",
+      "difficulty": "中级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣田螺",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 15,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅莴笋",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣白菜",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 8,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣牛肉干",
+      "difficulty": "高级",
+      "prep_time": 30,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅花甲",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 15,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "小炒河虾",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣蕨根粉",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅杏鲍菇",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣鸭脖",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 60,
+      "servings": 4,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅娃娃菜",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣魔芋",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣鸡翅",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅莲藕",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣海带丝",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 5,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣猪肝",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅千页豆腐",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣金针菇",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 8,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣鸡肫",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅腐竹",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣木耳",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 8,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣鸭掌",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 60,
+      "servings": 3,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅西兰花",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣黄瓜",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 5,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣牛百叶",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "干锅豆皮",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "酸辣萝卜干",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 5,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    },
+    {
+      "name": "香辣鸭舌",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "示例食材"
+      ],
+      "steps": [
+        "示例步骤"
+      ],
+      "tips": "专业烹饪技巧"
+    }
+  ]
+}

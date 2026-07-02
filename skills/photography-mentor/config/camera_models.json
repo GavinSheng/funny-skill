@@ -1,0 +1,272 @@
+{
+  "supported_models": {
+    "canon": {
+      "eos_5d_mark_iii": {
+        "display_name": "Canon EOS 5D Mark III",
+        "type": "DSLR",
+        "sensor": "Full Frame",
+        "release_year": 2012,
+        "key_features": ["61点AF", "22.3MP", "DIGIC 5+", "6fps"],
+        "inherits_from": null
+      },
+      "eos_r5": {
+        "display_name": "Canon EOS R5",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2020,
+        "key_features": ["45MP", "8K video", "In-body IS", "Dual Pixel AF II"],
+        "inherits_from": "canon_common"
+      },
+      "eos_r5_ii": {
+        "display_name": "Canon EOS R5 Mark II",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2024,
+        "key_features": ["45MP", "8K60p video", "Enhanced AI AF", "Improved IBIS"],
+        "inherits_from": "eos_r5"
+      },
+      "eos_r6_iii": {
+        "display_name": "Canon EOS R6 Mark III",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2025,
+        "key_features": ["24MP", "6K oversampled 4K", "Advanced AI tracking", "Better battery"],
+        "inherits_from": "canon_common"
+      },
+      "eos_r1": {
+        "display_name": "Canon EOS R1",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2025,
+        "key_features": ["24MP", "8K120p video", "Advanced AI subject detection", "Professional sports body", "Dual CFexpress slots"],
+        "inherits_from": "canon_common"
+      }
+    },
+    "sony": {
+      "a7c_ii": {
+        "display_name": "Sony Alpha A7C II",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2023,
+        "key_features": ["33MP", "AI AF", "5-axis IBIS", "Compact body"],
+        "inherits_from": "sony_common"
+      },
+      "a7_iv": {
+        "display_name": "Sony Alpha A7 IV",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2021,
+        "key_features": ["33MP", "10fps", "4K60p", "Improved AF"],
+        "inherits_from": "sony_common"
+      },
+      "a7r_v": {
+        "display_name": "Sony Alpha A7R V",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2022,
+        "key_features": ["61MP", "AI AF", "8-stop IBIS", "8K video"],
+        "inherits_from": "sony_common"
+      },
+      "a9_iii": {
+        "display_name": "Sony Alpha A9 III",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2023,
+        "key_features": ["24MP Global Shutter", "120fps", "No blackout", "Pro sports"],
+        "inherits_from": "sony_common"
+      },
+      "a7c_iii": {
+        "display_name": "Sony Alpha A7C III",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2025,
+        "key_features": ["33MP", "Enhanced AI AF", "Improved battery life", "Compact body", "5-axis IBIS"],
+        "inherits_from": "sony_common"
+      },
+      "a7s_iv": {
+        "display_name": "Sony Alpha A7S IV",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2025,
+        "key_features": ["12MP", "8K video", "Exceptional low light", "S-Log3", "Professional video features"],
+        "inherits_from": "sony_common"
+      }
+    },
+    "nikon": {
+      "z8": {
+        "display_name": "Nikon Z8",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2023,
+        "key_features": ["45MP", "8K video", "3D Tracking", "Pro body"],
+        "inherits_from": "nikon_common"
+      },
+      "z6_ii": {
+        "display_name": "Nikon Z6 II",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2020,
+        "key_features": ["24MP", "4K60p", "Dual EXPEED", "Great high ISO"],
+        "inherits_from": "nikon_common"
+      },
+      "z7_ii": {
+        "display_name": "Nikon Z7 II",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2020,
+        "key_features": ["45MP", "Dual card slots", "Pro stills", "High resolution"],
+        "inherits_from": "nikon_common"
+      },
+      "zf": {
+        "display_name": "Nikon Zf",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2023,
+        "key_features": ["24MP", "Retro design", "5-axis IBIS", "AI AF"],
+        "inherits_from": "nikon_common"
+      },
+      "z9_ii": {
+        "display_name": "Nikon Z9 Mark II",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2026,
+        "key_features": ["45MP", "8K60p video", "Enhanced AI AF", "No mechanical shutter", "Professional flagship"],
+        "inherits_from": "nikon_common"
+      }
+    },
+    "panasonic": {
+      "s5_ii": {
+        "display_name": "Panasonic Lumix S5 II",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2023,
+        "key_features": ["24MP", "6K open gate video", "Phase detect AF", "L-mount", "Hybrid shooter focused"],
+        "inherits_from": "panasonic_common"
+      },
+      "s5_iix": {
+        "display_name": "Panasonic Lumix S5 IIX",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2023,
+        "key_features": ["24MP", "ProRes recording", "Anamorphic support", "Advanced video features", "L-mount"],
+        "inherits_from": "panasonic_common"
+      },
+      "s5_iii": {
+        "display_name": "Panasonic Lumix S5 III",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2025,
+        "key_features": ["24MP", "6K open gate video", "Phase detect AF", "L-mount", "Hybrid shooter focused"],
+        "inherits_from": "panasonic_common"
+      },
+      "s1_ii": {
+        "display_name": "Panasonic Lumix S1 Mark II",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2026,
+        "key_features": ["47MP", "8K video", "Professional cinema features", "Robust weather sealing", "Dual card slots"],
+        "inherits_from": "panasonic_common"
+      }
+    },
+    "leica": {
+      "sl2": {
+        "display_name": "Leica SL2",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2019,
+        "key_features": ["47MP", "5-axis IBIS", "L-mount", "Premium build", "Maestro III processor"],
+        "inherits_from": "leica_common"
+      },
+      "sl2_s": {
+        "display_name": "Leica SL2-S",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2020,
+        "key_features": ["24MP", "Video optimized", "L-mount", "Excellent low light", "Robust build"],
+        "inherits_from": "leica_common"
+      },
+      "q3": {
+        "display_name": "Leica Q3",
+        "type": "Fixed Lens",
+        "sensor": "Full Frame",
+        "release_year": 2023,
+        "key_features": ["60MP", "28mm f/1.7 lens", "8K video", "Touch interface", "Premium compact"],
+        "inherits_from": "leica_common"
+      },
+      "sl3": {
+        "display_name": "Leica SL3",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2025,
+        "key_features": ["60MP", "8K video", "L-mount", "Premium build quality", "Maestro IV processor"],
+        "inherits_from": "leica_common"
+      }
+    },
+    "sigma": {
+      "fp": {
+        "display_name": "Sigma fp",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2019,
+        "key_features": ["24MP", "Modular design", "L-mount", "Cinema features", "Compact body"],
+        "inherits_from": "sigma_common"
+      },
+      "fp_l": {
+        "display_name": "Sigma fp L",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2021,
+        "key_features": ["61MP", "High resolution", "L-mount", "Modular design", "Cinema capabilities"],
+        "inherits_from": "sigma_common"
+      },
+      "fp_ii": {
+        "display_name": "Sigma fp Mark II",
+        "type": "Mirrorless",
+        "sensor": "Full Frame",
+        "release_year": 2026,
+        "key_features": ["61MP", "8K raw video", "Modular design", "L-mount", "Compact cinema camera"],
+        "inherits_from": "sigma_common"
+      }
+    }
+  },
+  "default_model": "canon_eos_5d_mark_iii",
+  
+  "common_bases": {
+    "canon_common": {
+      "brand": "Canon",
+      "menu_logic": "Quick Menu + Main Menu system",
+      "button_layout": "Standard Canon ergonomics",
+      "file_format": "CR3/CR2 for RAW"
+    },
+    "sony_common": {
+      "brand": "Sony",
+      "menu_logic": "Tab-based menu system",
+      "button_layout": "Customizable buttons",
+      "file_format": "ARW for RAW"
+    },
+    "nikon_common": {
+      "brand": "Nikon",
+      "menu_logic": "Hierarchical menu + i-menu system",
+      "button_layout": "Fn buttons + customizable dials",
+      "file_format": "NEF for RAW"
+    },
+    "panasonic_common": {
+      "brand": "Panasonic",
+      "menu_logic": "Q.Menu + Main Menu system with touch interface",
+      "button_layout": "Function buttons + customizable dials",
+      "file_format": "RW2 for RAW"
+    },
+    "leica_common": {
+      "brand": "Leica",
+      "menu_logic": "Intuitive touch interface with physical dials",
+      "button_layout": "Minimalist design with essential controls",
+      "file_format": "DNG for RAW"
+    },
+    "sigma_common": {
+      "brand": "Sigma",
+      "menu_logic": "Simple menu system with customization options",
+      "button_layout": "Modular design with optional accessories",
+      "file_format": "DNG for RAW"
+    }
+  }
+}

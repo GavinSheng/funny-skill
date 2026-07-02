@@ -1,0 +1,926 @@
+{
+  "cuisine": "湘菜",
+  "total_dishes": 50,
+  "dishes": [
+    {
+      "name": "剁椒鱼头",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "鱼头1个(约800g)",
+        "剁椒200g",
+        "姜蒜适量",
+        "料酒2汤匙",
+        "酱油1汤匙",
+        "盐适量",
+        "葱花适量"
+      ],
+      "steps": [
+        "鱼头处理干净",
+        "抹料酒盐腌制",
+        "铺剁椒",
+        "蒸25分钟",
+        "撒葱花"
+      ],
+      "tips": "鱼头要新鲜，剁椒要自制的更香"
+    },
+    {
+      "name": "辣椒炒肉",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "猪肉200g",
+        "青椒150g",
+        "红椒100g",
+        "豆豉1汤匙",
+        "酱油2汤匙",
+        "盐适量"
+      ],
+      "steps": [
+        "肉切片腌制",
+        "辣椒切片",
+        "热油爆香豆豉",
+        "炒肉片",
+        "加辣椒翻炒",
+        "调味出锅"
+      ],
+      "tips": "要用湖南本地辣椒，豆豉是关键"
+    },
+    {
+      "name": "毛氏红烧肉",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 60,
+      "servings": 4,
+      "ingredients": [
+        "五花肉500g",
+        "冰糖100g",
+        "料酒3汤匙",
+        "酱油2汤匙",
+        "姜片5片",
+        "葱段3根"
+      ],
+      "steps": [
+        "五花肉切块",
+        "焯水",
+        "炒糖色",
+        "加肉翻炒",
+        "加调料炖煮",
+        "收汁装盘"
+      ],
+      "tips": "不放一滴水，全靠料酒和肉的水分"
+    },
+    {
+      "name": "腊味合蒸",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 30,
+      "servings": 3,
+      "ingredients": [
+        "腊肉150g",
+        "腊肠150g",
+        "腊鸭150g",
+        "干豆角100g",
+        "姜片5片",
+        "料酒2汤匙"
+      ],
+      "steps": [
+        "腊味切片",
+        "干豆角泡发",
+        "码入碗中",
+        "加姜片料酒",
+        "蒸30分钟",
+        "倒扣装盘"
+      ],
+      "tips": "腊味要选择正宗湖南腊味"
+    },
+    {
+      "name": "永州血鸭",
+      "difficulty": "高级",
+      "prep_time": 30,
+      "cook_time": 20,
+      "servings": 3,
+      "ingredients": [
+        "鸭肉500g",
+        "鸭血200g",
+        "干辣椒20个",
+        "姜蒜适量",
+        "料酒2汤匙",
+        "酱油2汤匙"
+      ],
+      "steps": [
+        "鸭肉切块",
+        "炒香调料",
+        "加鸭肉翻炒",
+        "加调料炖煮",
+        "最后加入鸭血",
+        "快速翻炒出锅"
+      ],
+      "tips": "鸭血要在最后加入，保持鲜嫩"
+    },
+    {
+      "name": "湘西外婆菜",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "萝卜干100g",
+        "干豆角100g",
+        "腊肉100g",
+        "干辣椒10个",
+        "蒜末3瓣",
+        "酱油2汤匙"
+      ],
+      "steps": [
+        "食材泡发",
+        "腊肉切片",
+        "爆香调料",
+        "依次加入食材",
+        "翻炒入味",
+        "调味出锅"
+      ],
+      "tips": "这是湘西家常菜，咸香下饭"
+    },
+    {
+      "name": "东安子鸡",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "仔鸡1只(约800g)",
+        "干辣椒15个",
+        "姜片20片",
+        "花椒1汤匙",
+        "料酒3汤匙",
+        "醋2汤匙",
+        "盐适量"
+      ],
+      "steps": [
+        "鸡切块",
+        "焯水",
+        "爆香调料",
+        "加鸡块翻炒",
+        "加料酒醋炖煮",
+        "收汁出锅"
+      ],
+      "tips": "酸辣口味，姜要多放"
+    },
+    {
+      "name": "酱板鸭",
+      "difficulty": "高级",
+      "prep_time": 120,
+      "cook_time": 90,
+      "servings": 4,
+      "ingredients": [
+        "鸭子1只",
+        "豆瓣酱100g",
+        "辣椒粉50g",
+        "花椒粉20g",
+        "五香粉10g",
+        "料酒100ml",
+        "酱油50ml"
+      ],
+      "steps": [
+        "鸭子处理",
+        "腌制12小时",
+        "风干",
+        "刷酱料",
+        "烤制90分钟"
+      ],
+      "tips": "需要专业设备，家庭可简化"
+    },
+    {
+      "name": "小炒黄牛肉",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "黄牛肉300g",
+        "小米辣15个",
+        "香菜100g",
+        "姜蒜适量",
+        "酱油2汤匙",
+        "料酒1汤匙"
+      ],
+      "steps": [
+        "牛肉切片腌制",
+        "小米辣切段",
+        "爆香调料",
+        "大火快炒牛肉",
+        "加小米辣",
+        "撒香菜出锅"
+      ],
+      "tips": "要用黄牛肉，火候要大而快"
+    },
+    {
+      "name": "平江火焙鱼",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "小鱼干200g",
+        "干辣椒10个",
+        "姜蒜适量",
+        "酱油2汤匙",
+        "料酒1汤匙",
+        "茶油适量"
+      ],
+      "steps": [
+        "鱼干泡软",
+        "爆香调料",
+        "加鱼干翻炒",
+        "加调料焖煮",
+        "收汁出锅"
+      ],
+      "tips": "要用湖南茶油，风味独特"
+    },
+    {
+      "name": "湘菜菜品11",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品12",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品13",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品14",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品15",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品16",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品17",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品18",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品19",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品20",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品21",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品22",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品23",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品24",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品25",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品26",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品27",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品28",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品29",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品30",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品31",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品32",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品33",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品34",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品35",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品36",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品37",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品38",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品39",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品40",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品41",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品42",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品43",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品44",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品45",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品46",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品47",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品48",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品49",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    },
+    {
+      "name": "湘菜菜品50",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材",
+        "调料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "湘菜特色"
+    }
+  ]
+}

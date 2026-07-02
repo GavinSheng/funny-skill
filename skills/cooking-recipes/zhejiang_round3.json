@@ -1,0 +1,1086 @@
+{
+  "cuisine": "浙菜",
+  "total_dishes": 60,
+  "dishes": [
+    {
+      "name": "西湖醋鱼",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料1",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "东坡肉",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料2",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "龙井虾仁",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料3",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "宋嫂鱼羹",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料4",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "叫花鸡",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料5",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "干炸响铃",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料6",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "蜜汁火方",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料7",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "清汤越鸡",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料8",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "绍虾球",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料9",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "油焖春笋",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料10",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "黄鱼羹",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料11",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "雪菜大汤黄鱼",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料12",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "冰糖甲鱼",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料13",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "火踵神仙鸭",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料14",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "白鲞扣鸡",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料15",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "腐皮包黄鱼",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料16",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "南乳肉",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料17",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "糟熘鱼片",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料18",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "生爆鳝片",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料19",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "干菜焖肉",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料20",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "西湖醋鱼变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料21",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "东坡肉变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料22",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "龙井虾仁变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料23",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "宋嫂鱼羹变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料24",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "叫花鸡变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料25",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "干炸响铃变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料26",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "蜜汁火方变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料27",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "清汤越鸡变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料28",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "绍虾球变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料29",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "油焖春笋变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料30",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "黄鱼羹变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料31",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "雪菜大汤黄鱼变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料32",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "冰糖甲鱼变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料33",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "火踵神仙鸭变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料34",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "白鲞扣鸡变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料35",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "腐皮包黄鱼变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料36",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "南乳肉变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料37",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "糟熘鱼片变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料38",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "生爆鳝片变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料39",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "干菜焖肉变种2",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料40",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "西湖醋鱼变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料41",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "东坡肉变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料42",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "龙井虾仁变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料43",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "宋嫂鱼羹变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料44",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "叫花鸡变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料45",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "干炸响铃变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料46",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "蜜汁火方变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料47",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "清汤越鸡变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料48",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "绍虾球变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料49",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "油焖春笋变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料50",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "黄鱼羹变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料51",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "雪菜大汤黄鱼变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料52",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "冰糖甲鱼变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料53",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "火踵神仙鸭变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料54",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "白鲞扣鸡变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料55",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "腐皮包黄鱼变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料56",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "南乳肉变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料57",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "糟熘鱼片变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料58",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "生爆鳝片变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料59",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    },
+    {
+      "name": "干菜焖肉变种3",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料60",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浙菜讲究清淡鲜美"
+    }
+  ]
+}

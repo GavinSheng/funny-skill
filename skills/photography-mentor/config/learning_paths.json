@@ -1,0 +1,26 @@
+{
+  "beginner_path": {
+    "name": "摄影基础入门",
+    "description": "适合摄影新手的完整学习路径",
+    "modules": [
+      "exposure_triangle",
+      "camera_basics", 
+      "composition",
+      "lighting_basics",
+      "practical_scenarios"
+    ],
+    "estimated_duration": "2-4周"
+  },
+  "intermediate_path": {
+    "name": "进阶摄影技巧",
+    "description": "掌握专业摄影技能",
+    "modules": [
+      "advanced_exposure",
+      "depth_of_field",
+      "focusing_techniques",
+      "white_balance_advanced",
+      "creative_composition"
+    ],
+    "estimated_duration": "4-6周"
+  }
+}

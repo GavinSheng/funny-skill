@@ -1,0 +1,1056 @@
+{
+  "cuisine": "粤菜",
+  "total_dishes": 50,
+  "recipes": [
+    {
+      "name": "白切鸡",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 49,
+      "servings": 5,
+      "ingredients": [
+        "主要食材1",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "白切鸡的烹饪技巧和注意事项"
+    },
+    {
+      "name": "蚝油生菜",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 17,
+      "cook_time": 38,
+      "servings": 4,
+      "ingredients": [
+        "主要食材2",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "蚝油生菜的烹饪技巧和注意事项"
+    },
+    {
+      "name": "叉烧",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 39,
+      "cook_time": 58,
+      "servings": 3,
+      "ingredients": [
+        "主要食材3",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "叉烧的烹饪技巧和注意事项"
+    },
+    {
+      "name": "干炒牛河",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 10,
+      "cook_time": 60,
+      "servings": 4,
+      "ingredients": [
+        "主要食材4",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "干炒牛河的烹饪技巧和注意事项"
+    },
+    {
+      "name": "豉汁蒸排骨",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 17,
+      "cook_time": 12,
+      "servings": 4,
+      "ingredients": [
+        "主要食材5",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "豉汁蒸排骨的烹饪技巧和注意事项"
+    },
+    {
+      "name": "清蒸鲈鱼",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 31,
+      "cook_time": 16,
+      "servings": 2,
+      "ingredients": [
+        "主要食材6",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "清蒸鲈鱼的烹饪技巧和注意事项"
+    },
+    {
+      "name": "蜜汁叉烧",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 14,
+      "cook_time": 16,
+      "servings": 5,
+      "ingredients": [
+        "主要食材7",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "蜜汁叉烧的烹饪技巧和注意事项"
+    },
+    {
+      "name": "蒜蓉粉丝蒸扇贝",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 17,
+      "servings": 3,
+      "ingredients": [
+        "主要食材8",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "蒜蓉粉丝蒸扇贝的烹饪技巧和注意事项"
+    },
+    {
+      "name": "烧鹅",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 28,
+      "cook_time": 60,
+      "servings": 3,
+      "ingredients": [
+        "主要食材9",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "烧鹅的烹饪技巧和注意事项"
+    },
+    {
+      "name": "艇仔粥",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 13,
+      "cook_time": 34,
+      "servings": 6,
+      "ingredients": [
+        "主要食材10",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "艇仔粥的烹饪技巧和注意事项"
+    },
+    {
+      "name": "梅菜扣肉",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 22,
+      "cook_time": 51,
+      "servings": 2,
+      "ingredients": [
+        "主要食材11",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "梅菜扣肉的烹饪技巧和注意事项"
+    },
+    {
+      "name": "白灼虾",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 39,
+      "cook_time": 26,
+      "servings": 3,
+      "ingredients": [
+        "主要食材12",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "白灼虾的烹饪技巧和注意事项"
+    },
+    {
+      "name": "姜葱炒蟹",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 34,
+      "cook_time": 53,
+      "servings": 6,
+      "ingredients": [
+        "主要食材13",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "姜葱炒蟹的烹饪技巧和注意事项"
+    },
+    {
+      "name": "XO酱炒萝卜糕",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 15,
+      "cook_time": 27,
+      "servings": 5,
+      "ingredients": [
+        "主要食材14",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "XO酱炒萝卜糕的烹饪技巧和注意事项"
+    },
+    {
+      "name": "鲍汁扣辽参",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 32,
+      "cook_time": 41,
+      "servings": 5,
+      "ingredients": [
+        "主要食材15",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "鲍汁扣辽参的烹饪技巧和注意事项"
+    },
+    {
+      "name": "龙虾刺身",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 39,
+      "cook_time": 44,
+      "servings": 2,
+      "ingredients": [
+        "主要食材16",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "龙虾刺身的烹饪技巧和注意事项"
+    },
+    {
+      "name": "脆皮烧肉",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 12,
+      "cook_time": 46,
+      "servings": 6,
+      "ingredients": [
+        "主要食材17",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "脆皮烧肉的烹饪技巧和注意事项"
+    },
+    {
+      "name": "百花酿豆腐",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 36,
+      "cook_time": 53,
+      "servings": 2,
+      "ingredients": [
+        "主要食材18",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "百花酿豆腐的烹饪技巧和注意事项"
+    },
+    {
+      "name": "陈皮红豆沙",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 17,
+      "cook_time": 42,
+      "servings": 6,
+      "ingredients": [
+        "主要食材19",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "陈皮红豆沙的烹饪技巧和注意事项"
+    },
+    {
+      "name": "杨枝甘露",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 34,
+      "cook_time": 32,
+      "servings": 3,
+      "ingredients": [
+        "主要食材20",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "杨枝甘露的烹饪技巧和注意事项"
+    },
+    {
+      "name": "双皮奶",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 17,
+      "cook_time": 19,
+      "servings": 5,
+      "ingredients": [
+        "主要食材21",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "双皮奶的烹饪技巧和注意事项"
+    },
+    {
+      "name": "姜撞奶",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 10,
+      "cook_time": 57,
+      "servings": 4,
+      "ingredients": [
+        "主要食材22",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "姜撞奶的烹饪技巧和注意事项"
+    },
+    {
+      "name": "豉汁蒸凤爪",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 22,
+      "cook_time": 52,
+      "servings": 3,
+      "ingredients": [
+        "主要食材23",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "豉汁蒸凤爪的烹饪技巧和注意事项"
+    },
+    {
+      "name": "腊味煲仔饭",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 19,
+      "servings": 5,
+      "ingredients": [
+        "主要食材24",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "腊味煲仔饭的烹饪技巧和注意事项"
+    },
+    {
+      "name": "潮州卤水拼盘",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 39,
+      "cook_time": 47,
+      "servings": 6,
+      "ingredients": [
+        "主要食材25",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "潮州卤水拼盘的烹饪技巧和注意事项"
+    },
+    {
+      "name": "顺德鱼生",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 17,
+      "cook_time": 31,
+      "servings": 3,
+      "ingredients": [
+        "主要食材26",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "顺德鱼生的烹饪技巧和注意事项"
+    },
+    {
+      "name": "客家酿豆腐",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 13,
+      "cook_time": 23,
+      "servings": 4,
+      "ingredients": [
+        "主要食材27",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "客家酿豆腐的烹饪技巧和注意事项"
+    },
+    {
+      "name": "沙河粉炒牛肉",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 11,
+      "cook_time": 33,
+      "servings": 4,
+      "ingredients": [
+        "主要食材28",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "沙河粉炒牛肉的烹饪技巧和注意事项"
+    },
+    {
+      "name": "文昌鸡",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 22,
+      "cook_time": 23,
+      "servings": 3,
+      "ingredients": [
+        "主要食材29",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "文昌鸡的烹饪技巧和注意事项"
+    },
+    {
+      "name": "东江盐焗鸡",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 20,
+      "cook_time": 22,
+      "servings": 3,
+      "ingredients": [
+        "主要食材30",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "东江盐焗鸡的烹饪技巧和注意事项"
+    },
+    {
+      "name": "蜜汁烧鸭",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 32,
+      "cook_time": 18,
+      "servings": 4,
+      "ingredients": [
+        "主要食材31",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "蜜汁烧鸭的烹饪技巧和注意事项"
+    },
+    {
+      "name": "豉汁蒸鲩鱼",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 24,
+      "cook_time": 10,
+      "servings": 4,
+      "ingredients": [
+        "主要食材32",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "豉汁蒸鲩鱼的烹饪技巧和注意事项"
+    },
+    {
+      "name": "瑶柱扒菜胆",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 10,
+      "cook_time": 14,
+      "servings": 5,
+      "ingredients": [
+        "主要食材33",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "瑶柱扒菜胆的烹饪技巧和注意事项"
+    },
+    {
+      "name": "蚝皇扒海参",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 30,
+      "cook_time": 57,
+      "servings": 2,
+      "ingredients": [
+        "主要食材34",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "蚝皇扒海参的烹饪技巧和注意事项"
+    },
+    {
+      "name": "鲍汁扣花菇",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 36,
+      "cook_time": 32,
+      "servings": 5,
+      "ingredients": [
+        "主要食材35",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "鲍汁扣花菇的烹饪技巧和注意事项"
+    },
+    {
+      "name": "清蒸石斑鱼",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 12,
+      "cook_time": 16,
+      "servings": 6,
+      "ingredients": [
+        "主要食材36",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "清蒸石斑鱼的烹饪技巧和注意事项"
+    },
+    {
+      "name": "红烧乳鸽",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 23,
+      "cook_time": 47,
+      "servings": 2,
+      "ingredients": [
+        "主要食材37",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "红烧乳鸽的烹饪技巧和注意事项"
+    },
+    {
+      "name": "蜜汁叉烧酥",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 33,
+      "cook_time": 58,
+      "servings": 3,
+      "ingredients": [
+        "主要食材38",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "蜜汁叉烧酥的烹饪技巧和注意事项"
+    },
+    {
+      "name": "虾饺",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 14,
+      "cook_time": 59,
+      "servings": 3,
+      "ingredients": [
+        "主要食材39",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "虾饺的烹饪技巧和注意事项"
+    },
+    {
+      "name": "烧卖",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 18,
+      "cook_time": 48,
+      "servings": 2,
+      "ingredients": [
+        "主要食材40",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "烧卖的烹饪技巧和注意事项"
+    },
+    {
+      "name": "叉烧包",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 35,
+      "cook_time": 9,
+      "servings": 5,
+      "ingredients": [
+        "主要食材41",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "叉烧包的烹饪技巧和注意事项"
+    },
+    {
+      "name": "肠粉",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 21,
+      "cook_time": 15,
+      "servings": 3,
+      "ingredients": [
+        "主要食材42",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "肠粉的烹饪技巧和注意事项"
+    },
+    {
+      "name": "云吞面",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 10,
+      "cook_time": 39,
+      "servings": 2,
+      "ingredients": [
+        "主要食材43",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "云吞面的烹饪技巧和注意事项"
+    },
+    {
+      "name": "及第粥",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 24,
+      "cook_time": 60,
+      "servings": 3,
+      "ingredients": [
+        "主要食材44",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "及第粥的烹饪技巧和注意事项"
+    },
+    {
+      "name": "皮蛋瘦肉粥",
+      "cuisine": "粤菜",
+      "difficulty": "中级",
+      "prep_time": 36,
+      "cook_time": 13,
+      "servings": 3,
+      "ingredients": [
+        "主要食材45",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "皮蛋瘦肉粥的烹饪技巧和注意事项"
+    },
+    {
+      "name": "咸蛋黄炒蟹",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 28,
+      "cook_time": 49,
+      "servings": 3,
+      "ingredients": [
+        "主要食材46",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "咸蛋黄炒蟹的烹饪技巧和注意事项"
+    },
+    {
+      "name": "黑椒牛柳",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 40,
+      "cook_time": 21,
+      "servings": 3,
+      "ingredients": [
+        "主要食材47",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "黑椒牛柳的烹饪技巧和注意事项"
+    },
+    {
+      "name": "咕噜肉",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 39,
+      "cook_time": 16,
+      "servings": 2,
+      "ingredients": [
+        "主要食材48",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "咕噜肉的烹饪技巧和注意事项"
+    },
+    {
+      "name": "五柳炸蛋",
+      "cuisine": "粤菜",
+      "difficulty": "高级",
+      "prep_time": 12,
+      "cook_time": 55,
+      "servings": 5,
+      "ingredients": [
+        "主要食材49",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "五柳炸蛋的烹饪技巧和注意事项"
+    },
+    {
+      "name": "糖不甩",
+      "cuisine": "粤菜",
+      "difficulty": "初级",
+      "prep_time": 31,
+      "cook_time": 47,
+      "servings": 2,
+      "ingredients": [
+        "主要食材50",
+        "调味料",
+        "配料"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3",
+        "步骤4",
+        "步骤5"
+      ],
+      "tips": "糖不甩的烹饪技巧和注意事项"
+    }
+  ]
+}

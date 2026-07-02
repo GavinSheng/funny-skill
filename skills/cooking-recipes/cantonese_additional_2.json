@@ -1,0 +1,174 @@
+{
+  "additional_dishes": [
+    {
+      "name": "沙河粉炒牛肉",
+      "difficulty": "中级",
+      "prep_time": 31,
+      "cook_time": 16,
+      "servings": 6,
+      "ingredients": [
+        "主要食材1",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "沙河粉炒牛肉制作小贴士"
+    },
+    {
+      "name": "文昌鸡",
+      "difficulty": "中级",
+      "prep_time": 12,
+      "cook_time": 40,
+      "servings": 3,
+      "ingredients": [
+        "主要食材2",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "文昌鸡制作小贴士"
+    },
+    {
+      "name": "东江盐焗鸡",
+      "difficulty": "初级",
+      "prep_time": 13,
+      "cook_time": 20,
+      "servings": 4,
+      "ingredients": [
+        "主要食材3",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "东江盐焗鸡制作小贴士"
+    },
+    {
+      "name": "白切猪手",
+      "difficulty": "高级",
+      "prep_time": 36,
+      "cook_time": 45,
+      "servings": 6,
+      "ingredients": [
+        "主要食材4",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "白切猪手制作小贴士"
+    },
+    {
+      "name": "蒜蓉粉丝蒸扇贝",
+      "difficulty": "高级",
+      "prep_time": 37,
+      "cook_time": 39,
+      "servings": 2,
+      "ingredients": [
+        "主要食材5",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "蒜蓉粉丝蒸扇贝制作小贴士"
+    },
+    {
+      "name": "清蒸石斑鱼",
+      "difficulty": "高级",
+      "prep_time": 33,
+      "cook_time": 33,
+      "servings": 5,
+      "ingredients": [
+        "主要食材6",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "清蒸石斑鱼制作小贴士"
+    },
+    {
+      "name": "蚝油芥兰",
+      "difficulty": "高级",
+      "prep_time": 40,
+      "cook_time": 21,
+      "servings": 5,
+      "ingredients": [
+        "主要食材7",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "蚝油芥兰制作小贴士"
+    },
+    {
+      "name": "豆豉鲮鱼油麦菜",
+      "difficulty": "高级",
+      "prep_time": 38,
+      "cook_time": 47,
+      "servings": 2,
+      "ingredients": [
+        "主要食材8",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "豆豉鲮鱼油麦菜制作小贴士"
+    },
+    {
+      "name": "五柳炸蛋",
+      "difficulty": "初级",
+      "prep_time": 26,
+      "cook_time": 45,
+      "servings": 3,
+      "ingredients": [
+        "主要食材9",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "五柳炸蛋制作小贴士"
+    },
+    {
+      "name": "菠萝咕噜肉",
+      "difficulty": "高级",
+      "prep_time": 23,
+      "cook_time": 21,
+      "servings": 2,
+      "ingredients": [
+        "主要食材10",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "菠萝咕噜肉制作小贴士"
+    }
+  ]
+}

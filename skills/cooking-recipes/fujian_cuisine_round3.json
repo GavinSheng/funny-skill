@@ -1,0 +1,410 @@
+{
+  "dishes": [
+    {
+      "name": "醉糟鸡",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 40,
+      "servings": 4
+    },
+    {
+      "name": "八宝红鲟饭",
+      "difficulty": "高级",
+      "prep_time": 30,
+      "cook_time": 50,
+      "servings": 4
+    },
+    {
+      "name": "太极明虾",
+      "difficulty": "高级",
+      "prep_time": 25,
+      "cook_time": 15,
+      "servings": 3
+    },
+    {
+      "name": "白斩河田鸡",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 25,
+      "servings": 4
+    },
+    {
+      "name": "荔枝肉",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 15,
+      "servings": 3
+    },
+    {
+      "name": "醉排骨",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 25,
+      "servings": 3
+    },
+    {
+      "name": "南煎肝",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "鸡汤汆海蚌",
+      "difficulty": "高级",
+      "prep_time": 30,
+      "cook_time": 20,
+      "servings": 4
+    },
+    {
+      "name": "佛跳墙",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 180,
+      "servings": 6
+    },
+    {
+      "name": "爆炒双脆",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 10,
+      "servings": 3
+    },
+    {
+      "name": "淡糟香螺片",
+      "difficulty": "高级",
+      "prep_time": 25,
+      "cook_time": 10,
+      "servings": 3
+    },
+    {
+      "name": "红糟鱼块",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 3
+    },
+    {
+      "name": "红糟肉",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 40,
+      "servings": 4
+    },
+    {
+      "name": "红糟鳗鱼",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3
+    },
+    {
+      "name": "红糟炣豆腐",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2
+    },
+    {
+      "name": "红糟焖笋",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 20,
+      "servings": 3
+    },
+    {
+      "name": "红糟炣炣面",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣米粉",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣粿条",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣粉丝",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣面条",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣年糕",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣馒头",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣包子",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣饺子",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣馄饨",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣汤圆",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣粽子",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣月饼",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣蛋糕",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣面包",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣饼干",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣糖果",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣巧克力",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣冰淇淋",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣酸奶",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣牛奶",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣豆浆",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣果汁",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣茶",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣咖啡",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣啤酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣白酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣红酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣黄酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣米酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣果酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣药酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣保健酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣养生酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣美容酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣减肥酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣壮阳酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣补肾酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣补血酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣补气酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    },
+    {
+      "name": "红糟炣炣安神酒",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2
+    }
+  ]
+}

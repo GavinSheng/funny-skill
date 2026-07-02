@@ -1,0 +1,997 @@
+{
+  "metadata": {
+    "cuisine": "浙菜",
+    "total_dishes": 50,
+    "description": "浙菜以清鲜脆嫩、制作精细、注重原汁原味为特点，擅长烹制河鲜和时令蔬菜",
+    "created_date": "2026-03-20"
+  },
+  "dishes": [
+    {
+      "name": "东坡肉",
+      "difficulty": "中级",
+      "prep_time": 30,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "五花肉500g",
+        "黄酒300ml",
+        "酱油100ml",
+        "冰糖100g",
+        "姜片5片",
+        "葱段3根"
+      ],
+      "steps": [
+        "五花肉切大块焯水",
+        "炒糖色",
+        "加入黄酒、酱油、冰糖",
+        "小火慢炖2小时",
+        "收汁装盘"
+      ],
+      "tips": "要用黄酒而不是料酒，炖煮时间要足够"
+    },
+    {
+      "name": "西湖醋鱼",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "草鱼1条(约600g)",
+        "姜末20g",
+        "醋50ml",
+        "糖30g",
+        "酱油20ml",
+        "高汤200ml"
+      ],
+      "steps": [
+        "草鱼处理干净",
+        "鱼身划刀",
+        "煮至断生",
+        "调制酸甜汁",
+        "淋在鱼上"
+      ],
+      "tips": "鱼要选择活的草鱼，煮的时间要掌握好"
+    },
+    {
+      "name": "龙井虾仁",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 8,
+      "servings": 2,
+      "ingredients": [
+        "河虾仁300g",
+        "龙井茶叶10g",
+        "蛋清1个",
+        "淀粉1汤匙",
+        "盐适量",
+        "食用油适量"
+      ],
+      "steps": [
+        "虾仁处理腌制",
+        "龙井茶泡开",
+        "虾仁滑油",
+        "加入茶叶翻炒",
+        "调味出锅"
+      ],
+      "tips": "要用正宗龙井茶，虾仁要新鲜"
+    },
+    {
+      "name": "宋嫂鱼羹",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "叫花鸡",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "干炸响铃",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 10,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "蜜汁火方",
+      "difficulty": "中级",
+      "prep_time": 33,
+      "cook_time": 10,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "黄鱼羹",
+      "difficulty": "高级",
+      "prep_time": 38,
+      "cook_time": 15,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "雪菜大汤黄鱼",
+      "difficulty": "高级",
+      "prep_time": 14,
+      "cook_time": 53,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "油焖春笋",
+      "difficulty": "初级",
+      "prep_time": 32,
+      "cook_time": 79,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "莼菜鲈鱼羹",
+      "difficulty": "初级",
+      "prep_time": 44,
+      "cook_time": 20,
+      "servings": 2,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "糟溜鱼片",
+      "difficulty": "初级",
+      "prep_time": 32,
+      "cook_time": 64,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "南乳扣肉",
+      "difficulty": "初级",
+      "prep_time": 20,
+      "cook_time": 74,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "蜜汁莲藕",
+      "difficulty": "初级",
+      "prep_time": 35,
+      "cook_time": 99,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "桂花糯米藕",
+      "difficulty": "初级",
+      "prep_time": 55,
+      "cook_time": 53,
+      "servings": 6,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "绍兴醉鸡",
+      "difficulty": "初级",
+      "prep_time": 11,
+      "cook_time": 39,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "宁波汤圆",
+      "difficulty": "高级",
+      "prep_time": 39,
+      "cook_time": 26,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "金华火腿炖豆腐",
+      "difficulty": "初级",
+      "prep_time": 35,
+      "cook_time": 103,
+      "servings": 6,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "绍兴霉干菜扣肉",
+      "difficulty": "初级",
+      "prep_time": 39,
+      "cook_time": 98,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "杭州酱鸭",
+      "difficulty": "中级",
+      "prep_time": 17,
+      "cook_time": 84,
+      "servings": 2,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "西湖莼菜汤",
+      "difficulty": "初级",
+      "prep_time": 42,
+      "cook_time": 35,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "钱江肉丝",
+      "difficulty": "中级",
+      "prep_time": 33,
+      "cook_time": 97,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "杭椒牛柳",
+      "difficulty": "初级",
+      "prep_time": 20,
+      "cook_time": 13,
+      "servings": 6,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "糖醋排骨",
+      "difficulty": "初级",
+      "prep_time": 13,
+      "cook_time": 24,
+      "servings": 2,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "梅干菜烧肉",
+      "difficulty": "中级",
+      "prep_time": 54,
+      "cook_time": 82,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "清蒸鲥鱼",
+      "difficulty": "高级",
+      "prep_time": 13,
+      "cook_time": 116,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "红烧划水",
+      "difficulty": "高级",
+      "prep_time": 38,
+      "cook_time": 94,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "白灼河虾",
+      "difficulty": "中级",
+      "prep_time": 59,
+      "cook_time": 87,
+      "servings": 2,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "葱油拌面",
+      "difficulty": "初级",
+      "prep_time": 54,
+      "cook_time": 85,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "片儿川",
+      "difficulty": "初级",
+      "prep_time": 48,
+      "cook_time": 93,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "猫耳朵",
+      "difficulty": "初级",
+      "prep_time": 27,
+      "cook_time": 105,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "吴山酥油饼",
+      "difficulty": "中级",
+      "prep_time": 32,
+      "cook_time": 18,
+      "servings": 2,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "定胜糕",
+      "difficulty": "初级",
+      "prep_time": 22,
+      "cook_time": 105,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "桂花糖藕",
+      "difficulty": "初级",
+      "prep_time": 50,
+      "cook_time": 104,
+      "servings": 2,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "酒酿圆子",
+      "difficulty": "高级",
+      "prep_time": 25,
+      "cook_time": 48,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "西湖牛肉羹",
+      "difficulty": "中级",
+      "prep_time": 49,
+      "cook_time": 61,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "油爆虾",
+      "difficulty": "高级",
+      "prep_time": 29,
+      "cook_time": 39,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "干菜焖肉",
+      "difficulty": "初级",
+      "prep_time": 17,
+      "cook_time": 103,
+      "servings": 6,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "鲞冻肉",
+      "difficulty": "中级",
+      "prep_time": 55,
+      "cook_time": 105,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "荷叶粉蒸肉",
+      "difficulty": "中级",
+      "prep_time": 33,
+      "cook_time": 81,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "八宝鸭",
+      "difficulty": "初级",
+      "prep_time": 37,
+      "cook_time": 42,
+      "servings": 6,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "火腿蚕豆",
+      "difficulty": "初级",
+      "prep_time": 34,
+      "cook_time": 93,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "清汤越鸡",
+      "difficulty": "高级",
+      "prep_time": 56,
+      "cook_time": 37,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "绍三鲜",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 16,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "新风鳗鲞",
+      "difficulty": "初级",
+      "prep_time": 27,
+      "cook_time": 33,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "干炸响铃",
+      "difficulty": "高级",
+      "prep_time": 15,
+      "cook_time": 32,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "蜜汁火腿",
+      "difficulty": "中级",
+      "prep_time": 28,
+      "cook_time": 30,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "糟鸡",
+      "difficulty": "初级",
+      "prep_time": 54,
+      "cook_time": 17,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "醉虾",
+      "difficulty": "初级",
+      "prep_time": 44,
+      "cook_time": 77,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "西湖莼菜羹",
+      "difficulty": "初级",
+      "prep_time": 47,
+      "cook_time": 92,
+      "servings": 3,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "龙井茶香鸡",
+      "difficulty": "中级",
+      "prep_time": 25,
+      "cook_time": 15,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "杭州小笼包",
+      "difficulty": "初级",
+      "prep_time": 26,
+      "cook_time": 85,
+      "servings": 6,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "知味观小笼",
+      "difficulty": "初级",
+      "prep_time": 34,
+      "cook_time": 106,
+      "servings": 5,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    },
+    {
+      "name": "奎元馆虾爆鳝面",
+      "difficulty": "初级",
+      "prep_time": 19,
+      "cook_time": 39,
+      "servings": 4,
+      "ingredients": [
+        "主要食材适量",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理食材",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "根据具体菜品调整"
+    }
+  ]
+}

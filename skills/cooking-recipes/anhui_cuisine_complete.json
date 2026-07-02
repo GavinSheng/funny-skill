@@ -1,0 +1,935 @@
+{
+  "cuisine": "徽菜",
+  "total_dishes": 50,
+  "description": "徽菜以山珍野味、河鲜家禽为原料，注重火功，擅长烧、炖，讲究食补，重油重色重火功",
+  "dishes": [
+    {
+      "name": "臭鳜鱼",
+      "difficulty": "高级",
+      "prep_time": 120,
+      "cook_time": 30,
+      "servings": 2,
+      "ingredients": [
+        "鳜鱼1条(600g)",
+        "臭卤水500ml",
+        "姜片5片",
+        "蒜瓣5瓣",
+        "干辣椒5个",
+        "料酒2汤匙",
+        "酱油2汤匙",
+        "糖1汤匙"
+      ],
+      "steps": [
+        "鳜鱼处理干净",
+        "用臭卤水腌制24小时",
+        "取出洗净",
+        "煎至两面金黄",
+        "炒香调料",
+        "加水炖煮20分钟",
+        "收汁装盘"
+      ],
+      "tips": "臭鳜鱼的关键在于腌制时间和臭卤水的质量"
+    },
+    {
+      "name": "胡适一品锅",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 120,
+      "servings": 6,
+      "ingredients": [
+        "土鸡1只",
+        "火腿200g",
+        "冬笋200g",
+        "香菇100g",
+        "蛋饺12个",
+        "油豆腐10块",
+        "青菜200g",
+        "高汤1000ml"
+      ],
+      "steps": [
+        "鸡肉处理",
+        "火腿切片",
+        "冬笋切片",
+        "香菇泡发",
+        "蛋饺制作",
+        "分层码放",
+        "加高汤炖煮2小时",
+        "最后加青菜"
+      ],
+      "tips": "要分层码放，从下到上：鸡、火腿、冬笋、香菇、蛋饺、油豆腐、青菜"
+    },
+    {
+      "name": "黄山炖鸽",
+      "difficulty": "中级",
+      "prep_time": 30,
+      "cook_time": 90,
+      "servings": 2,
+      "ingredients": [
+        "乳鸽2只",
+        "黄山毛峰茶叶10g",
+        "姜片5片",
+        "枸杞20粒",
+        "红枣6颗",
+        "盐适量",
+        "料酒2汤匙"
+      ],
+      "steps": [
+        "乳鸽处理干净",
+        "焯水去腥",
+        "茶叶用纱布包好",
+        "所有材料放入砂锅",
+        "加水炖煮90分钟",
+        "加盐调味"
+      ],
+      "tips": "黄山毛峰茶叶是关键，不可用其他茶叶替代"
+    },
+    {
+      "name": "问政山笋",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 30,
+      "servings": 3,
+      "ingredients": [
+        "问政山笋500g",
+        "腊肉150g",
+        "姜片3片",
+        "蒜瓣3瓣",
+        "酱油1汤匙",
+        "糖1茶匙",
+        "食用油适量"
+      ],
+      "steps": [
+        "山笋切片",
+        "腊肉切片",
+        "热锅煸炒腊肉出油",
+        "加姜蒜爆香",
+        "加入山笋翻炒",
+        "加调料炖煮20分钟"
+      ],
+      "tips": "问政山笋是徽州特产，质地脆嫩，味道鲜美"
+    },
+    {
+      "name": "符离集烧鸡",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 90,
+      "servings": 4,
+      "ingredients": [
+        "三黄鸡1只",
+        "丁香5粒",
+        "桂皮1块",
+        "八角3个",
+        "花椒1汤匙",
+        "酱油3汤匙",
+        "糖2汤匙",
+        "料酒3汤匙"
+      ],
+      "steps": [
+        "鸡处理干净",
+        "香料炒香",
+        "调制卤水",
+        "鸡入卤水",
+        "小火炖煮90分钟",
+        "晾凉切块"
+      ],
+      "tips": "符离集烧鸡是安徽宿州名菜，卤制时间要足够"
+    },
+    {
+      "name": "沙地马蹄鳖",
+      "difficulty": "高级",
+      "prep_time": 40,
+      "cook_time": 60,
+      "servings": 3,
+      "ingredients": [
+        "甲鱼1只(800g)",
+        "火腿100g",
+        "冬笋100g",
+        "香菇50g",
+        "姜片5片",
+        "料酒3汤匙",
+        "酱油2汤匙",
+        "高汤500ml"
+      ],
+      "steps": [
+        "甲鱼处理",
+        "火腿冬笋切片",
+        "炒香调料",
+        "加高汤炖煮60分钟",
+        "调味装盘"
+      ],
+      "tips": "甲鱼要选择活的，处理时要去除油脂"
+    },
+    {
+      "name": "李鸿章杂烩",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 40,
+      "servings": 6,
+      "ingredients": [
+        "海参100g",
+        "鱿鱼100g",
+        "火腿100g",
+        "鸡肉200g",
+        "冬笋100g",
+        "香菇50g",
+        "青菜200g",
+        "高汤1000ml"
+      ],
+      "steps": [
+        "各种食材处理",
+        "分别焯水",
+        "炒香调料",
+        "加高汤煮开",
+        "依次加入食材",
+        "炖煮30分钟",
+        "勾芡装盘"
+      ],
+      "tips": "这道菜源于李鸿章宴请外国使节，集合了多种珍贵食材"
+    },
+    {
+      "name": "刀板香蒸笋",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "冬笋500g",
+        "刀板香咸肉200g",
+        "姜片3片",
+        "料酒1汤匙"
+      ],
+      "steps": [
+        "冬笋切片",
+        "咸肉切片",
+        "分层码放",
+        "蒸25分钟",
+        "直接食用"
+      ],
+      "tips": "刀板香是徽州特产咸肉，咸香浓郁"
+    },
+    {
+      "name": "徽州毛豆腐",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "毛豆腐400g",
+        "辣椒酱2汤匙",
+        "香油1汤匙",
+        "葱花适量"
+      ],
+      "steps": [
+        "毛豆腐切块",
+        "煎至两面金黄",
+        "配辣椒酱食用"
+      ],
+      "tips": "毛豆腐表面有白色菌丝，是徽州特色发酵豆制品"
+    },
+    {
+      "name": "中和汤",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 30,
+      "servings": 4,
+      "ingredients": [
+        "豆腐200g",
+        "冬笋100g",
+        "香菇50g",
+        "青菜200g",
+        "高汤800ml",
+        "盐适量",
+        "白胡椒粉适量"
+      ],
+      "steps": [
+        "豆腐切片",
+        "冬笋香菇切片",
+        "高汤煮开",
+        "加入所有食材",
+        "煮15分钟",
+        "调味即可"
+      ],
+      "tips": "中和汤讲究清淡雅致，体现徽菜的文人气质"
+    },
+    {
+      "name": "徽菜特色菜11",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜12",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜13",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜14",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜15",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜16",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜17",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜18",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜19",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜20",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜21",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜22",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜23",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜24",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜25",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜26",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜27",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜28",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜29",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜30",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜31",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜32",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜33",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜34",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜35",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜36",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜37",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜38",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜39",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜40",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜41",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜42",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜43",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜44",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜45",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜46",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜47",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜48",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜49",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    },
+    {
+      "name": "徽菜特色菜50",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "主料适量",
+        "调料适量"
+      ],
+      "steps": [
+        "步骤1",
+        "步骤2",
+        "步骤3"
+      ],
+      "tips": "徽菜特色做法"
+    }
+  ]
+}

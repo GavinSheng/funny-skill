@@ -1,0 +1,190 @@
+{
+  "name": "浙菜额外补充",
+  "dishes": [
+    {
+      "name": "西湖莼菜汤",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 10,
+      "servings": 2,
+      "ingredients": [
+        "莼菜200g",
+        "火腿50g",
+        "高汤500ml",
+        "盐适量"
+      ],
+      "steps": [
+        "莼菜洗净",
+        "高汤煮开",
+        "加入莼菜",
+        "调味出锅"
+      ]
+    },
+    {
+      "name": "龙井虾仁",
+      "difficulty": "高级",
+      "prep_time": 20,
+      "cook_time": 8,
+      "servings": 2,
+      "ingredients": [
+        "虾仁300g",
+        "龙井茶叶10g",
+        "蛋清1个",
+        "淀粉1汤匙"
+      ],
+      "steps": [
+        "虾仁腌制",
+        "茶叶泡开",
+        "快炒虾仁",
+        "加入茶叶"
+      ]
+    },
+    {
+      "name": "东坡肉",
+      "difficulty": "中级",
+      "prep_time": 30,
+      "cook_time": 120,
+      "servings": 4,
+      "ingredients": [
+        "五花肉500g",
+        "酱油3汤匙",
+        "糖3汤匙",
+        "料酒3汤匙"
+      ],
+      "steps": [
+        "肉切方块",
+        "焯水",
+        "炒糖色",
+        "炖煮2小时"
+      ]
+    },
+    {
+      "name": "宋嫂鱼羹",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 25,
+      "servings": 3,
+      "ingredients": [
+        "鳜鱼300g",
+        "火腿50g",
+        "香菇50g",
+        "鸡蛋1个"
+      ],
+      "steps": [
+        "鱼肉处理",
+        "熬汤",
+        "加入配料",
+        "勾芡"
+      ]
+    },
+    {
+      "name": "叫化鸡",
+      "difficulty": "高级",
+      "prep_time": 60,
+      "cook_time": 180,
+      "servings": 4,
+      "ingredients": [
+        "鸡1只",
+        "荷叶2张",
+        "黄泥适量",
+        "调料适量"
+      ],
+      "steps": [
+        "鸡腌制",
+        "包荷叶",
+        "裹黄泥",
+        "烤制3小时"
+      ]
+    },
+    {
+      "name": "干炸响铃",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 10,
+      "servings": 3,
+      "ingredients": [
+        "豆腐皮200g",
+        "猪肉末150g",
+        "葱姜适量"
+      ],
+      "steps": [
+        "豆腐皮切条",
+        "包肉馅",
+        "油炸至金黄"
+      ]
+    },
+    {
+      "name": "蜜汁火方",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 30,
+      "servings": 4,
+      "ingredients": [
+        "金华火腿200g",
+        "蜂蜜50g",
+        "冰糖30g"
+      ],
+      "steps": [
+        "火腿切片",
+        "蒸软",
+        "蜜汁炖煮"
+      ]
+    },
+    {
+      "name": "西湖醋鱼",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "草鱼1条",
+        "醋3汤匙",
+        "糖2汤匙",
+        "姜末适量"
+      ],
+      "steps": [
+        "鱼处理",
+        "煮熟",
+        "调醋汁",
+        "淋汁"
+      ]
+    },
+    {
+      "name": "油焖春笋",
+      "difficulty": "初级",
+      "prep_time": 10,
+      "cook_time": 15,
+      "servings": 2,
+      "ingredients": [
+        "春笋300g",
+        "酱油2汤匙",
+        "糖1汤匙",
+        "料酒1汤匙"
+      ],
+      "steps": [
+        "春笋切段",
+        "焯水",
+        "油焖炖煮"
+      ]
+    },
+    {
+      "name": "糟溜鱼片",
+      "difficulty": "中级",
+      "prep_time": 15,
+      "cook_time": 8,
+      "servings": 2,
+      "ingredients": [
+        "鱼片200g",
+        "香糟卤100ml",
+        "笋片50g",
+        "香菇50g"
+      ],
+      "steps": [
+        "鱼片腌制",
+        "快炒",
+        "加糟卤",
+        "勾芡"
+      ]
+    }
+  ]
+}

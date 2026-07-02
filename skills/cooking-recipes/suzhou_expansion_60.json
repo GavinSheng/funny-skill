@@ -1,0 +1,1302 @@
+{
+  "cuisine": "苏菜",
+  "total_dishes": 60,
+  "dishes": [
+    {
+      "name": "松鼠桂鱼",
+      "difficulty": "高级",
+      "prep_time": 41,
+      "cook_time": 29,
+      "servings": 4,
+      "ingredients": [
+        "主料1 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "松鼠桂鱼是江苏传统名菜"
+    },
+    {
+      "name": "清炖蟹粉狮子头",
+      "difficulty": "高级",
+      "prep_time": 51,
+      "cook_time": 119,
+      "servings": 4,
+      "ingredients": [
+        "主料2 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "清炖蟹粉狮子头是江苏传统名菜"
+    },
+    {
+      "name": "盐水鸭",
+      "difficulty": "高级",
+      "prep_time": 27,
+      "cook_time": 25,
+      "servings": 2,
+      "ingredients": [
+        "主料3 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "盐水鸭是江苏传统名菜"
+    },
+    {
+      "name": "金陵烤鸭",
+      "difficulty": "初级",
+      "prep_time": 12,
+      "cook_time": 43,
+      "servings": 5,
+      "ingredients": [
+        "主料4 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "金陵烤鸭是江苏传统名菜"
+    },
+    {
+      "name": "扬州炒饭",
+      "difficulty": "初级",
+      "prep_time": 42,
+      "cook_time": 34,
+      "servings": 5,
+      "ingredients": [
+        "主料5 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "扬州炒饭是江苏传统名菜"
+    },
+    {
+      "name": "文思豆腐",
+      "difficulty": "初级",
+      "prep_time": 44,
+      "cook_time": 94,
+      "servings": 4,
+      "ingredients": [
+        "主料6 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "文思豆腐是江苏传统名菜"
+    },
+    {
+      "name": "三套鸭",
+      "difficulty": "中级",
+      "prep_time": 23,
+      "cook_time": 113,
+      "servings": 3,
+      "ingredients": [
+        "主料7 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "三套鸭是江苏传统名菜"
+    },
+    {
+      "name": "大煮干丝",
+      "difficulty": "高级",
+      "prep_time": 40,
+      "cook_time": 81,
+      "servings": 5,
+      "ingredients": [
+        "主料8 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "大煮干丝是江苏传统名菜"
+    },
+    {
+      "name": "水晶肴肉",
+      "difficulty": "高级",
+      "prep_time": 35,
+      "cook_time": 23,
+      "servings": 2,
+      "ingredients": [
+        "主料9 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "水晶肴肉是江苏传统名菜"
+    },
+    {
+      "name": "镇江肴肉",
+      "difficulty": "高级",
+      "prep_time": 46,
+      "cook_time": 57,
+      "servings": 6,
+      "ingredients": [
+        "主料10 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "镇江肴肉是江苏传统名菜"
+    },
+    {
+      "name": "无锡排骨",
+      "difficulty": "高级",
+      "prep_time": 30,
+      "cook_time": 35,
+      "servings": 6,
+      "ingredients": [
+        "主料11 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "无锡排骨是江苏传统名菜"
+    },
+    {
+      "name": "苏州酱鸭",
+      "difficulty": "中级",
+      "prep_time": 60,
+      "cook_time": 75,
+      "servings": 3,
+      "ingredients": [
+        "主料12 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "苏州酱鸭是江苏传统名菜"
+    },
+    {
+      "name": "常熟叫化鸡",
+      "difficulty": "初级",
+      "prep_time": 57,
+      "cook_time": 19,
+      "servings": 6,
+      "ingredients": [
+        "主料13 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "常熟叫化鸡是江苏传统名菜"
+    },
+    {
+      "name": "太仓肉松",
+      "difficulty": "初级",
+      "prep_time": 24,
+      "cook_time": 102,
+      "servings": 5,
+      "ingredients": [
+        "主料14 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "太仓肉松是江苏传统名菜"
+    },
+    {
+      "name": "昆山奥灶面",
+      "difficulty": "高级",
+      "prep_time": 13,
+      "cook_time": 31,
+      "servings": 6,
+      "ingredients": [
+        "主料15 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "昆山奥灶面是江苏传统名菜"
+    },
+    {
+      "name": "吴江鲈鱼羹",
+      "difficulty": "中级",
+      "prep_time": 50,
+      "cook_time": 45,
+      "servings": 6,
+      "ingredients": [
+        "主料16 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "吴江鲈鱼羹是江苏传统名菜"
+    },
+    {
+      "name": "张家港沙洲优黄",
+      "difficulty": "中级",
+      "prep_time": 20,
+      "cook_time": 101,
+      "servings": 2,
+      "ingredients": [
+        "主料17 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "张家港沙洲优黄是江苏传统名菜"
+    },
+    {
+      "name": "南通狼山鸡",
+      "difficulty": "中级",
+      "prep_time": 42,
+      "cook_time": 83,
+      "servings": 4,
+      "ingredients": [
+        "主料18 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "南通狼山鸡是江苏传统名菜"
+    },
+    {
+      "name": "如皋火腿",
+      "difficulty": "初级",
+      "prep_time": 16,
+      "cook_time": 112,
+      "servings": 3,
+      "ingredients": [
+        "主料19 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "如皋火腿是江苏传统名菜"
+    },
+    {
+      "name": "海安河豚",
+      "difficulty": "高级",
+      "prep_time": 43,
+      "cook_time": 19,
+      "servings": 4,
+      "ingredients": [
+        "主料20 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "海安河豚是江苏传统名菜"
+    },
+    {
+      "name": "启东吕四带鱼",
+      "difficulty": "中级",
+      "prep_time": 59,
+      "cook_time": 118,
+      "servings": 3,
+      "ingredients": [
+        "主料21 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "启东吕四带鱼是江苏传统名菜"
+    },
+    {
+      "name": "海门山羊肉",
+      "difficulty": "中级",
+      "prep_time": 48,
+      "cook_time": 26,
+      "servings": 2,
+      "ingredients": [
+        "主料22 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "海门山羊肉是江苏传统名菜"
+    },
+    {
+      "name": "泰州早茶",
+      "difficulty": "高级",
+      "prep_time": 52,
+      "cook_time": 75,
+      "servings": 2,
+      "ingredients": [
+        "主料23 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "泰州早茶是江苏传统名菜"
+    },
+    {
+      "name": "靖江蟹黄汤包",
+      "difficulty": "初级",
+      "prep_time": 13,
+      "cook_time": 52,
+      "servings": 5,
+      "ingredients": [
+        "主料24 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "靖江蟹黄汤包是江苏传统名菜"
+    },
+    {
+      "name": "泰兴银杏",
+      "difficulty": "中级",
+      "prep_time": 44,
+      "cook_time": 109,
+      "servings": 6,
+      "ingredients": [
+        "主料25 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "泰兴银杏是江苏传统名菜"
+    },
+    {
+      "name": "姜堰酥饼",
+      "difficulty": "初级",
+      "prep_time": 26,
+      "cook_time": 31,
+      "servings": 5,
+      "ingredients": [
+        "主料26 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "姜堰酥饼是江苏传统名菜"
+    },
+    {
+      "name": "兴化大闸蟹",
+      "difficulty": "高级",
+      "prep_time": 41,
+      "cook_time": 15,
+      "servings": 4,
+      "ingredients": [
+        "主料27 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "兴化大闸蟹是江苏传统名菜"
+    },
+    {
+      "name": "盐城八大碗",
+      "difficulty": "高级",
+      "prep_time": 50,
+      "cook_time": 18,
+      "servings": 5,
+      "ingredients": [
+        "主料28 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "盐城八大碗是江苏传统名菜"
+    },
+    {
+      "name": "东台鱼汤面",
+      "difficulty": "中级",
+      "prep_time": 59,
+      "cook_time": 41,
+      "servings": 6,
+      "ingredients": [
+        "主料29 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "东台鱼汤面是江苏传统名菜"
+    },
+    {
+      "name": "大丰麋鹿肉",
+      "difficulty": "中级",
+      "prep_time": 25,
+      "cook_time": 102,
+      "servings": 3,
+      "ingredients": [
+        "主料30 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "大丰麋鹿肉是江苏传统名菜"
+    },
+    {
+      "name": "射阳洋马菊花",
+      "difficulty": "中级",
+      "prep_time": 32,
+      "cook_time": 91,
+      "servings": 2,
+      "ingredients": [
+        "主料31 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "射阳洋马菊花是江苏传统名菜"
+    },
+    {
+      "name": "建湖藕粉圆子",
+      "difficulty": "中级",
+      "prep_time": 49,
+      "cook_time": 56,
+      "servings": 5,
+      "ingredients": [
+        "主料32 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "建湖藕粉圆子是江苏传统名菜"
+    },
+    {
+      "name": "淮安软兜长鱼",
+      "difficulty": "中级",
+      "prep_time": 41,
+      "cook_time": 74,
+      "servings": 5,
+      "ingredients": [
+        "主料33 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "淮安软兜长鱼是江苏传统名菜"
+    },
+    {
+      "name": "盱眙龙虾",
+      "difficulty": "中级",
+      "prep_time": 43,
+      "cook_time": 20,
+      "servings": 4,
+      "ingredients": [
+        "主料34 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "盱眙龙虾是江苏传统名菜"
+    },
+    {
+      "name": "金湖芡实",
+      "difficulty": "初级",
+      "prep_time": 15,
+      "cook_time": 30,
+      "servings": 5,
+      "ingredients": [
+        "主料35 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "金湖芡实是江苏传统名菜"
+    },
+    {
+      "name": "洪泽湖大闸蟹",
+      "difficulty": "高级",
+      "prep_time": 10,
+      "cook_time": 85,
+      "servings": 5,
+      "ingredients": [
+        "主料36 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "洪泽湖大闸蟹是江苏传统名菜"
+    },
+    {
+      "name": "涟水鸡糕",
+      "difficulty": "中级",
+      "prep_time": 30,
+      "cook_time": 111,
+      "servings": 5,
+      "ingredients": [
+        "主料37 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "涟水鸡糕是江苏传统名菜"
+    },
+    {
+      "name": "宿迁骆马湖银鱼",
+      "difficulty": "中级",
+      "prep_time": 24,
+      "cook_time": 85,
+      "servings": 3,
+      "ingredients": [
+        "主料38 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "宿迁骆马湖银鱼是江苏传统名菜"
+    },
+    {
+      "name": "泗阳膘鸡",
+      "difficulty": "初级",
+      "prep_time": 25,
+      "cook_time": 93,
+      "servings": 6,
+      "ingredients": [
+        "主料39 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "泗阳膘鸡是江苏传统名菜"
+    },
+    {
+      "name": "沭阳朝牌",
+      "difficulty": "高级",
+      "prep_time": 49,
+      "cook_time": 74,
+      "servings": 5,
+      "ingredients": [
+        "主料40 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "沭阳朝牌是江苏传统名菜"
+    },
+    {
+      "name": "泗洪大枣",
+      "difficulty": "中级",
+      "prep_time": 49,
+      "cook_time": 52,
+      "servings": 4,
+      "ingredients": [
+        "主料41 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "泗洪大枣是江苏传统名菜"
+    },
+    {
+      "name": "宿豫车轮饼",
+      "difficulty": "中级",
+      "prep_time": 21,
+      "cook_time": 29,
+      "servings": 3,
+      "ingredients": [
+        "主料42 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "宿豫车轮饼是江苏传统名菜"
+    },
+    {
+      "name": "徐州地锅鸡",
+      "difficulty": "高级",
+      "prep_time": 14,
+      "cook_time": 118,
+      "servings": 6,
+      "ingredients": [
+        "主料43 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "徐州地锅鸡是江苏传统名菜"
+    },
+    {
+      "name": "沛县狗肉",
+      "difficulty": "初级",
+      "prep_time": 53,
+      "cook_time": 79,
+      "servings": 5,
+      "ingredients": [
+        "主料44 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "沛县狗肉是江苏传统名菜"
+    },
+    {
+      "name": "丰县苹果",
+      "difficulty": "初级",
+      "prep_time": 52,
+      "cook_time": 29,
+      "servings": 2,
+      "ingredients": [
+        "主料45 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "丰县苹果是江苏传统名菜"
+    },
+    {
+      "name": "邳州银杏",
+      "difficulty": "初级",
+      "prep_time": 40,
+      "cook_time": 104,
+      "servings": 6,
+      "ingredients": [
+        "主料46 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "邳州银杏是江苏传统名菜"
+    },
+    {
+      "name": "新沂水蜜桃",
+      "difficulty": "高级",
+      "prep_time": 26,
+      "cook_time": 103,
+      "servings": 6,
+      "ingredients": [
+        "主料47 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "新沂水蜜桃是江苏传统名菜"
+    },
+    {
+      "name": "连云港花果山凤鹅",
+      "difficulty": "中级",
+      "prep_time": 12,
+      "cook_time": 89,
+      "servings": 5,
+      "ingredients": [
+        "主料48 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "连云港花果山凤鹅是江苏传统名菜"
+    },
+    {
+      "name": "赣榆煎饼",
+      "difficulty": "中级",
+      "prep_time": 56,
+      "cook_time": 35,
+      "servings": 3,
+      "ingredients": [
+        "主料49 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "赣榆煎饼是江苏传统名菜"
+    },
+    {
+      "name": "东海水晶梨",
+      "difficulty": "高级",
+      "prep_time": 19,
+      "cook_time": 29,
+      "servings": 2,
+      "ingredients": [
+        "主料50 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "东海水晶梨是江苏传统名菜"
+    },
+    {
+      "name": "灌云豆丹",
+      "difficulty": "初级",
+      "prep_time": 60,
+      "cook_time": 49,
+      "servings": 4,
+      "ingredients": [
+        "主料51 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "灌云豆丹是江苏传统名菜"
+    },
+    {
+      "name": "灌南汤沟酒",
+      "difficulty": "初级",
+      "prep_time": 47,
+      "cook_time": 44,
+      "servings": 3,
+      "ingredients": [
+        "主料52 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "灌南汤沟酒是江苏传统名菜"
+    },
+    {
+      "name": "南京盐水鸭",
+      "difficulty": "高级",
+      "prep_time": 57,
+      "cook_time": 16,
+      "servings": 3,
+      "ingredients": [
+        "主料53 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "南京盐水鸭是江苏传统名菜"
+    },
+    {
+      "name": "金陵板鸭",
+      "difficulty": "高级",
+      "prep_time": 13,
+      "cook_time": 62,
+      "servings": 3,
+      "ingredients": [
+        "主料54 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "金陵板鸭是江苏传统名菜"
+    },
+    {
+      "name": "夫子庙小吃",
+      "difficulty": "初级",
+      "prep_time": 22,
+      "cook_time": 119,
+      "servings": 5,
+      "ingredients": [
+        "主料55 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "夫子庙小吃是江苏传统名菜"
+    },
+    {
+      "name": "雨花茶",
+      "difficulty": "初级",
+      "prep_time": 43,
+      "cook_time": 20,
+      "servings": 6,
+      "ingredients": [
+        "主料56 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "雨花茶是江苏传统名菜"
+    },
+    {
+      "name": "高淳固城湖螃蟹",
+      "difficulty": "中级",
+      "prep_time": 51,
+      "cook_time": 28,
+      "servings": 3,
+      "ingredients": [
+        "主料57 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "高淳固城湖螃蟹是江苏传统名菜"
+    },
+    {
+      "name": "溧水青梅",
+      "difficulty": "中级",
+      "prep_time": 37,
+      "cook_time": 85,
+      "servings": 5,
+      "ingredients": [
+        "主料58 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "溧水青梅是江苏传统名菜"
+    },
+    {
+      "name": "六合猪头肉",
+      "difficulty": "初级",
+      "prep_time": 13,
+      "cook_time": 52,
+      "servings": 6,
+      "ingredients": [
+        "主料59 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "六合猪头肉是江苏传统名菜"
+    },
+    {
+      "name": "江宁湖熟板鸭",
+      "difficulty": "高级",
+      "prep_time": 11,
+      "cook_time": 84,
+      "servings": 3,
+      "ingredients": [
+        "主料60 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "江宁湖熟板鸭是江苏传统名菜"
+    },
+    {
+      "name": "浦口老山蜂蜜",
+      "difficulty": "初级",
+      "prep_time": 30,
+      "cook_time": 109,
+      "servings": 5,
+      "ingredients": [
+        "主料61 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "浦口老山蜂蜜是江苏传统名菜"
+    },
+    {
+      "name": "栖霞山野菜",
+      "difficulty": "高级",
+      "prep_time": 46,
+      "cook_time": 76,
+      "servings": 2,
+      "ingredients": [
+        "主料62 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "栖霞山野菜是江苏传统名菜"
+    },
+    {
+      "name": "苏州碧螺春",
+      "difficulty": "高级",
+      "prep_time": 16,
+      "cook_time": 56,
+      "servings": 3,
+      "ingredients": [
+        "主料63 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "苏州碧螺春是江苏传统名菜"
+    },
+    {
+      "name": "太湖三白",
+      "difficulty": "高级",
+      "prep_time": 13,
+      "cook_time": 37,
+      "servings": 2,
+      "ingredients": [
+        "主料64 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "太湖三白是江苏传统名菜"
+    },
+    {
+      "name": "阳澄湖大闸蟹",
+      "difficulty": "高级",
+      "prep_time": 39,
+      "cook_time": 112,
+      "servings": 5,
+      "ingredients": [
+        "主料65 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "阳澄湖大闸蟹是江苏传统名菜"
+    },
+    {
+      "name": "常熟虞山绿茶",
+      "difficulty": "中级",
+      "prep_time": 19,
+      "cook_time": 86,
+      "servings": 5,
+      "ingredients": [
+        "主料66 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "常熟虞山绿茶是江苏传统名菜"
+    },
+    {
+      "name": "昆山巴城葡萄",
+      "difficulty": "初级",
+      "prep_time": 48,
+      "cook_time": 56,
+      "servings": 6,
+      "ingredients": [
+        "主料67 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "昆山巴城葡萄是江苏传统名菜"
+    },
+    {
+      "name": "太仓肉松",
+      "difficulty": "中级",
+      "prep_time": 31,
+      "cook_time": 80,
+      "servings": 2,
+      "ingredients": [
+        "主料68 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "太仓肉松是江苏传统名菜"
+    },
+    {
+      "name": "吴江太湖莼菜",
+      "difficulty": "中级",
+      "prep_time": 42,
+      "cook_time": 60,
+      "servings": 2,
+      "ingredients": [
+        "主料69 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "吴江太湖莼菜是江苏传统名菜"
+    },
+    {
+      "name": "张家港凤凰水蜜桃",
+      "difficulty": "中级",
+      "prep_time": 45,
+      "cook_time": 62,
+      "servings": 2,
+      "ingredients": [
+        "主料70 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "张家港凤凰水蜜桃是江苏传统名菜"
+    },
+    {
+      "name": "相城御窑金砖",
+      "difficulty": "初级",
+      "prep_time": 18,
+      "cook_time": 84,
+      "servings": 3,
+      "ingredients": [
+        "主料71 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "相城御窑金砖是江苏传统名菜"
+    },
+    {
+      "name": "虎丘茶",
+      "difficulty": "初级",
+      "prep_time": 57,
+      "cook_time": 63,
+      "servings": 6,
+      "ingredients": [
+        "主料72 200g",
+        "调料适量"
+      ],
+      "steps": [
+        "准备食材",
+        "处理主料",
+        "烹饪过程",
+        "调味装盘"
+      ],
+      "tips": "虎丘茶是江苏传统名菜"
+    }
+  ]
+}
